@@ -35,6 +35,7 @@ char token[] = TOKEN;
 char clientId[] = "d:" ORG ":" DEVICE_TYPE ":" DEVICE_ID;
 //Serial.println(clientID);
 
+
  
 // set location and API key
 String Location = "Tokyo, JP";
