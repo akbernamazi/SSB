@@ -1,8 +1,9 @@
+# Smart Sign Boards
 ABSTRACT
 
-In present Systems the road signs and the speed limits are Static. 
+In the present System the road signs and the speed limits are Static. 
 But the road signs can be changed in some cases. 
-We can consider some cases when there are some road diversions due to heavy traffic or due to accidents then we can change the road signs accordingly if they are digitalized.
+Suppose, there's a road diversion due to heavy traffic or due to an accident then we can change the road signs accordingly if they are digitalized.
 This project proposes a system which has digital sign boards on which the signs can be changed dynamically. 
 By using the Weather Api we can get the weather reports based on which we can set the speed limit to particular area. 
 If there is rainfall then the roads will be slippery and the speed limit would be decreased.
