@@ -39,7 +39,7 @@ char clientId[] = "d:" ORG ":" DEVICE_TYPE ":" DEVICE_ID;
  
 // set location and API key
 String Location = "Tokyo, JP";
-String API_Key  = "61de582dc03d7d7da65b115c26156c39";
+String API_Key  = "Your API key here";
 
 
  
